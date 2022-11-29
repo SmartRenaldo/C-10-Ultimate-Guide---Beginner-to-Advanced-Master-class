@@ -30,7 +30,10 @@ namespace ClassLibrary
         //step 2: raise event
         public void RaiseEvent(int a, int b)
         {
-            this.myDelegateType(a, b);
+            if (this.myDelegateType != null)
+            {
+                this.myDelegateType(a, b);
+            }
         }
     }
 }
