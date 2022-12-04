@@ -1,0 +1,15 @@
+C:\CSharp\ClearExample\ClearExample\bin\Debug\ClearExample.exe.config
+C:\CSharp\ClearExample\ClearExample\bin\Debug\ClearExample.exe
+C:\CSharp\ClearExample\ClearExample\bin\Debug\ClearExample.pdb
+C:\CSharp\ClearExample\ClearExample\obj\Debug\ClearExample.csprojAssemblyReference.cache
+C:\CSharp\ClearExample\ClearExample\obj\Debug\ClearExample.csproj.CoreCompileInputs.cache
+C:\CSharp\ClearExample\ClearExample\obj\Debug\ClearExample.exe
+C:\CSharp\ClearExample\ClearExample\obj\Debug\ClearExample.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\Clear\ClearExample\bin\Debug\ClearExample.exe.config
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\Clear\ClearExample\bin\Debug\ClearExample.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\Clear\ClearExample\bin\Debug\ClearExample.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\Clear\ClearExample\obj\Debug\ClearExample.csproj.AssemblyReference.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\Clear\ClearExample\obj\Debug\ClearExample.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\Clear\ClearExample\obj\Debug\ClearExample.csproj.CoreCompileInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\Clear\ClearExample\obj\Debug\ClearExample.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\Clear\ClearExample\obj\Debug\ClearExample.pdb
