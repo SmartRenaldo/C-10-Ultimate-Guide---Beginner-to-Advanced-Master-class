@@ -1,0 +1,15 @@
+C:\CSharp\BinarySearchExample\BinarySearchExample\bin\Debug\BinarySearchExample.exe.config
+C:\CSharp\BinarySearchExample\BinarySearchExample\bin\Debug\BinarySearchExample.exe
+C:\CSharp\BinarySearchExample\BinarySearchExample\bin\Debug\BinarySearchExample.pdb
+C:\CSharp\BinarySearchExample\BinarySearchExample\obj\Debug\BinarySearchExample.csprojAssemblyReference.cache
+C:\CSharp\BinarySearchExample\BinarySearchExample\obj\Debug\BinarySearchExample.csproj.CoreCompileInputs.cache
+C:\CSharp\BinarySearchExample\BinarySearchExample\obj\Debug\BinarySearchExample.exe
+C:\CSharp\BinarySearchExample\BinarySearchExample\obj\Debug\BinarySearchExample.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\BinarySearch\BinarySearchExample\bin\Debug\BinarySearchExample.exe.config
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\BinarySearch\BinarySearchExample\bin\Debug\BinarySearchExample.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\BinarySearch\BinarySearchExample\bin\Debug\BinarySearchExample.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\BinarySearch\BinarySearchExample\obj\Debug\BinarySearchExample.csproj.AssemblyReference.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\BinarySearch\BinarySearchExample\obj\Debug\BinarySearchExample.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\BinarySearch\BinarySearchExample\obj\Debug\BinarySearchExample.csproj.CoreCompileInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\BinarySearch\BinarySearchExample\obj\Debug\BinarySearchExample.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\BinarySearch\BinarySearchExample\obj\Debug\BinarySearchExample.pdb
