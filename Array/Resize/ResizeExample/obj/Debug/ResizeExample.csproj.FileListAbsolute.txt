@@ -1,0 +1,15 @@
+C:\CSharp\ResizeExample\ResizeExample\bin\Debug\ResizeExample.exe.config
+C:\CSharp\ResizeExample\ResizeExample\bin\Debug\ResizeExample.exe
+C:\CSharp\ResizeExample\ResizeExample\bin\Debug\ResizeExample.pdb
+C:\CSharp\ResizeExample\ResizeExample\obj\Debug\ResizeExample.csprojAssemblyReference.cache
+C:\CSharp\ResizeExample\ResizeExample\obj\Debug\ResizeExample.csproj.CoreCompileInputs.cache
+C:\CSharp\ResizeExample\ResizeExample\obj\Debug\ResizeExample.exe
+C:\CSharp\ResizeExample\ResizeExample\obj\Debug\ResizeExample.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\Resize\ResizeExample\bin\Debug\ResizeExample.exe.config
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\Resize\ResizeExample\bin\Debug\ResizeExample.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\Resize\ResizeExample\bin\Debug\ResizeExample.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\Resize\ResizeExample\obj\Debug\ResizeExample.csproj.AssemblyReference.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\Resize\ResizeExample\obj\Debug\ResizeExample.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\Resize\ResizeExample\obj\Debug\ResizeExample.csproj.CoreCompileInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\Resize\ResizeExample\obj\Debug\ResizeExample.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\Resize\ResizeExample\obj\Debug\ResizeExample.pdb
