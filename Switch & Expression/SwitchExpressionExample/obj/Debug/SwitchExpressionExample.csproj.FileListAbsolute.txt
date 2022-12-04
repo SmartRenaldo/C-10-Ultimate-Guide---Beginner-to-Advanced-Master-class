@@ -1,0 +1,7 @@
+C:\CSharp\SwitchExpressionExample\SwitchExpressionExample\bin\Debug\SwitchExpressionExample.exe.config
+C:\CSharp\SwitchExpressionExample\SwitchExpressionExample\bin\Debug\SwitchExpressionExample.exe
+C:\CSharp\SwitchExpressionExample\SwitchExpressionExample\bin\Debug\SwitchExpressionExample.pdb
+C:\CSharp\SwitchExpressionExample\SwitchExpressionExample\obj\Debug\SwitchExpressionExample.csprojAssemblyReference.cache
+C:\CSharp\SwitchExpressionExample\SwitchExpressionExample\obj\Debug\SwitchExpressionExample.csproj.CoreCompileInputs.cache
+C:\CSharp\SwitchExpressionExample\SwitchExpressionExample\obj\Debug\SwitchExpressionExample.exe
+C:\CSharp\SwitchExpressionExample\SwitchExpressionExample\obj\Debug\SwitchExpressionExample.pdb
