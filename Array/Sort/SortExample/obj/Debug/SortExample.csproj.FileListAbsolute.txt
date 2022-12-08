@@ -1,0 +1,7 @@
+C:\CSharp\SortExample\SortExample\bin\Debug\SortExample.exe.config
+C:\CSharp\SortExample\SortExample\bin\Debug\SortExample.exe
+C:\CSharp\SortExample\SortExample\bin\Debug\SortExample.pdb
+C:\CSharp\SortExample\SortExample\obj\Debug\SortExample.csprojAssemblyReference.cache
+C:\CSharp\SortExample\SortExample\obj\Debug\SortExample.csproj.CoreCompileInputs.cache
+C:\CSharp\SortExample\SortExample\obj\Debug\SortExample.exe
+C:\CSharp\SortExample\SortExample\obj\Debug\SortExample.pdb
