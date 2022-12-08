@@ -1,0 +1,7 @@
+C:\CSharp\ReverseExample\ReverseExample\bin\Debug\ReverseExample.exe.config
+C:\CSharp\ReverseExample\ReverseExample\bin\Debug\ReverseExample.exe
+C:\CSharp\ReverseExample\ReverseExample\bin\Debug\ReverseExample.pdb
+C:\CSharp\ReverseExample\ReverseExample\obj\Debug\ReverseExample.csprojAssemblyReference.cache
+C:\CSharp\ReverseExample\ReverseExample\obj\Debug\ReverseExample.csproj.CoreCompileInputs.cache
+C:\CSharp\ReverseExample\ReverseExample\obj\Debug\ReverseExample.exe
+C:\CSharp\ReverseExample\ReverseExample\obj\Debug\ReverseExample.pdb
