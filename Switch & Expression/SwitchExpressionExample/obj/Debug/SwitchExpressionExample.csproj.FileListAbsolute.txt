@@ -5,3 +5,11 @@ C:\CSharp\SwitchExpressionExample\SwitchExpressionExample\obj\Debug\SwitchExpres
 C:\CSharp\SwitchExpressionExample\SwitchExpressionExample\obj\Debug\SwitchExpressionExample.csproj.CoreCompileInputs.cache
 C:\CSharp\SwitchExpressionExample\SwitchExpressionExample\obj\Debug\SwitchExpressionExample.exe
 C:\CSharp\SwitchExpressionExample\SwitchExpressionExample\obj\Debug\SwitchExpressionExample.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Switch & Expression\SwitchExpressionExample\bin\Debug\SwitchExpressionExample.exe.config
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Switch & Expression\SwitchExpressionExample\bin\Debug\SwitchExpressionExample.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Switch & Expression\SwitchExpressionExample\bin\Debug\SwitchExpressionExample.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Switch & Expression\SwitchExpressionExample\obj\Debug\SwitchExpressionExample.csproj.AssemblyReference.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Switch & Expression\SwitchExpressionExample\obj\Debug\SwitchExpressionExample.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Switch & Expression\SwitchExpressionExample\obj\Debug\SwitchExpressionExample.csproj.CoreCompileInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Switch & Expression\SwitchExpressionExample\obj\Debug\SwitchExpressionExample.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Switch & Expression\SwitchExpressionExample\obj\Debug\SwitchExpressionExample.pdb

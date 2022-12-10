@@ -1,0 +1,15 @@
+c:\CSharp\CopyAndClone\CopyAndClone\bin\Debug\CopyAndClone.exe.config
+c:\CSharp\CopyAndClone\CopyAndClone\bin\Debug\CopyAndClone.exe
+c:\CSharp\CopyAndClone\CopyAndClone\bin\Debug\CopyAndClone.pdb
+c:\CSharp\CopyAndClone\CopyAndClone\obj\Debug\CopyAndClone.csproj.AssemblyReference.cache
+c:\CSharp\CopyAndClone\CopyAndClone\obj\Debug\CopyAndClone.csproj.CoreCompileInputs.cache
+c:\CSharp\CopyAndClone\CopyAndClone\obj\Debug\CopyAndClone.exe
+c:\CSharp\CopyAndClone\CopyAndClone\obj\Debug\CopyAndClone.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\CopyTo & Clone\CopyAndClone\bin\Debug\CopyAndClone.exe.config
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\CopyTo & Clone\CopyAndClone\bin\Debug\CopyAndClone.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\CopyTo & Clone\CopyAndClone\bin\Debug\CopyAndClone.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\CopyTo & Clone\CopyAndClone\obj\Debug\CopyAndClone.csproj.AssemblyReference.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\CopyTo & Clone\CopyAndClone\obj\Debug\CopyAndClone.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\CopyTo & Clone\CopyAndClone\obj\Debug\CopyAndClone.csproj.CoreCompileInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\CopyTo & Clone\CopyAndClone\obj\Debug\CopyAndClone.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Array\CopyTo & Clone\CopyAndClone\obj\Debug\CopyAndClone.pdb
