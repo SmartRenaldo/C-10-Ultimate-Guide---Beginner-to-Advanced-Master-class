@@ -1,0 +1,7 @@
+C:\CSharp\DeepCopyExample\DeepCopyExample\bin\Debug\DeepCopyExample.exe.config
+C:\CSharp\DeepCopyExample\DeepCopyExample\bin\Debug\DeepCopyExample.exe
+C:\CSharp\DeepCopyExample\DeepCopyExample\bin\Debug\DeepCopyExample.pdb
+C:\CSharp\DeepCopyExample\DeepCopyExample\obj\Debug\DeepCopyExample.csproj.AssemblyReference.cache
+C:\CSharp\DeepCopyExample\DeepCopyExample\obj\Debug\DeepCopyExample.csproj.CoreCompileInputs.cache
+C:\CSharp\DeepCopyExample\DeepCopyExample\obj\Debug\DeepCopyExample.exe
+C:\CSharp\DeepCopyExample\DeepCopyExample\obj\Debug\DeepCopyExample.pdb
