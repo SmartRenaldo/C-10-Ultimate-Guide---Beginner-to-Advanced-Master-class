@@ -1,0 +1,15 @@
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\ConvertAll\ConvertAll\ConvertAll\bin\Debug\net6.0\ConvertAll.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\ConvertAll\ConvertAll\ConvertAll\bin\Debug\net6.0\ConvertAll.deps.json
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\ConvertAll\ConvertAll\ConvertAll\bin\Debug\net6.0\ConvertAll.runtimeconfig.json
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\ConvertAll\ConvertAll\ConvertAll\bin\Debug\net6.0\ConvertAll.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\ConvertAll\ConvertAll\ConvertAll\bin\Debug\net6.0\ConvertAll.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\ConvertAll\ConvertAll\ConvertAll\obj\Debug\net6.0\ConvertAll.csproj.AssemblyReference.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\ConvertAll\ConvertAll\ConvertAll\obj\Debug\net6.0\ConvertAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\ConvertAll\ConvertAll\ConvertAll\obj\Debug\net6.0\ConvertAll.AssemblyInfoInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\ConvertAll\ConvertAll\ConvertAll\obj\Debug\net6.0\ConvertAll.AssemblyInfo.cs
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\ConvertAll\ConvertAll\ConvertAll\obj\Debug\net6.0\ConvertAll.csproj.CoreCompileInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\ConvertAll\ConvertAll\ConvertAll\obj\Debug\net6.0\ConvertAll.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\ConvertAll\ConvertAll\ConvertAll\obj\Debug\net6.0\refint\ConvertAll.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\ConvertAll\ConvertAll\ConvertAll\obj\Debug\net6.0\ConvertAll.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\ConvertAll\ConvertAll\ConvertAll\obj\Debug\net6.0\ConvertAll.genruntimeconfig.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\ConvertAll\ConvertAll\ConvertAll\obj\Debug\net6.0\ref\ConvertAll.dll
