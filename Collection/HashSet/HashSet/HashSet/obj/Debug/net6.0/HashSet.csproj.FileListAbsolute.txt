@@ -1,0 +1,15 @@
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashSet\HashSet\HashSet\bin\Debug\net6.0\HashSet.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashSet\HashSet\HashSet\bin\Debug\net6.0\HashSet.deps.json
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashSet\HashSet\HashSet\bin\Debug\net6.0\HashSet.runtimeconfig.json
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashSet\HashSet\HashSet\bin\Debug\net6.0\HashSet.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashSet\HashSet\HashSet\bin\Debug\net6.0\HashSet.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashSet\HashSet\HashSet\obj\Debug\net6.0\HashSet.csproj.AssemblyReference.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashSet\HashSet\HashSet\obj\Debug\net6.0\HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashSet\HashSet\HashSet\obj\Debug\net6.0\HashSet.AssemblyInfoInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashSet\HashSet\HashSet\obj\Debug\net6.0\HashSet.AssemblyInfo.cs
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashSet\HashSet\HashSet\obj\Debug\net6.0\HashSet.csproj.CoreCompileInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashSet\HashSet\HashSet\obj\Debug\net6.0\HashSet.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashSet\HashSet\HashSet\obj\Debug\net6.0\refint\HashSet.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashSet\HashSet\HashSet\obj\Debug\net6.0\HashSet.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashSet\HashSet\HashSet\obj\Debug\net6.0\HashSet.genruntimeconfig.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashSet\HashSet\HashSet\obj\Debug\net6.0\ref\HashSet.dll
