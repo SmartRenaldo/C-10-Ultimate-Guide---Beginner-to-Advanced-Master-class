@@ -1,0 +1,15 @@
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashTable\HashTable\HashTable\bin\Debug\net6.0\HashTable.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashTable\HashTable\HashTable\bin\Debug\net6.0\HashTable.deps.json
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashTable\HashTable\HashTable\bin\Debug\net6.0\HashTable.runtimeconfig.json
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashTable\HashTable\HashTable\bin\Debug\net6.0\HashTable.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashTable\HashTable\HashTable\bin\Debug\net6.0\HashTable.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashTable\HashTable\HashTable\obj\Debug\net6.0\HashTable.csproj.AssemblyReference.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashTable\HashTable\HashTable\obj\Debug\net6.0\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashTable\HashTable\HashTable\obj\Debug\net6.0\HashTable.AssemblyInfoInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashTable\HashTable\HashTable\obj\Debug\net6.0\HashTable.AssemblyInfo.cs
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashTable\HashTable\HashTable\obj\Debug\net6.0\HashTable.csproj.CoreCompileInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashTable\HashTable\HashTable\obj\Debug\net6.0\HashTable.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashTable\HashTable\HashTable\obj\Debug\net6.0\refint\HashTable.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashTable\HashTable\HashTable\obj\Debug\net6.0\HashTable.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashTable\HashTable\HashTable\obj\Debug\net6.0\HashTable.genruntimeconfig.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\HashTable\HashTable\HashTable\obj\Debug\net6.0\ref\HashTable.dll
