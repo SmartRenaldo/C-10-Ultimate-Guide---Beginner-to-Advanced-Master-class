@@ -1,0 +1,2 @@
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\Custom Collection With IEnumerable\CustomCollectionWithIEnumerable\CustomCollectionWithIEnumerable\obj\Debug\net6.0\CustomCollectionWithIEnumerable.csproj.AssemblyReference.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\Custom Collection With IEnumerable\CustomCollectionWithIEnumerable\CustomCollectionWithIEnumerable\obj\Debug\net6.0\CustomCollectionWithIEnumerable.GeneratedMSBuildEditorConfig.editorconfig
