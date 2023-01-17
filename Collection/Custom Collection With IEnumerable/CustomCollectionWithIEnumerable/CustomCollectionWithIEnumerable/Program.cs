@@ -25,10 +25,7 @@ namespace CustomCollectionsWithIEnumerable
 
         IEnumerator Enumerable.GetEnumerator()
         {
-            for (int i = 0; i < students.Count; i++)
-            {
-                yield return students[i];
-            }
+            return this.GetEnumerator();
         }
 
         public IEnumerator<Student> GetEnumerator()
