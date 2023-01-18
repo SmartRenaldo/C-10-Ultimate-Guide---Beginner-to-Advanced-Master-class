@@ -1,0 +1,15 @@
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\IComparer\IComparer\IComparer\obj\Debug\net6.0\IComparer.csproj.AssemblyReference.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\IComparer\IComparer\IComparer\obj\Debug\net6.0\IComparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\IComparer\IComparer\IComparer\obj\Debug\net6.0\IComparer.AssemblyInfoInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\IComparer\IComparer\IComparer\obj\Debug\net6.0\IComparer.AssemblyInfo.cs
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\IComparer\IComparer\IComparer\obj\Debug\net6.0\IComparer.csproj.CoreCompileInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\IComparer\IComparer\IComparer\bin\Debug\net6.0\IComparer.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\IComparer\IComparer\IComparer\bin\Debug\net6.0\IComparer.deps.json
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\IComparer\IComparer\IComparer\bin\Debug\net6.0\IComparer.runtimeconfig.json
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\IComparer\IComparer\IComparer\bin\Debug\net6.0\IComparer.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\IComparer\IComparer\IComparer\bin\Debug\net6.0\IComparer.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\IComparer\IComparer\IComparer\obj\Debug\net6.0\IComparer.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\IComparer\IComparer\IComparer\obj\Debug\net6.0\refint\IComparer.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\IComparer\IComparer\IComparer\obj\Debug\net6.0\IComparer.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\IComparer\IComparer\IComparer\obj\Debug\net6.0\IComparer.genruntimeconfig.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Collection\IComparer\IComparer\IComparer\obj\Debug\net6.0\ref\IComparer.dll
