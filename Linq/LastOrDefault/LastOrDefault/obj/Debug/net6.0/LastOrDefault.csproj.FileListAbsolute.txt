@@ -1,0 +1,15 @@
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Linq\LastOrDefault\LastOrDefault\bin\Debug\net6.0\LastOrDefault.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Linq\LastOrDefault\LastOrDefault\bin\Debug\net6.0\LastOrDefault.deps.json
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Linq\LastOrDefault\LastOrDefault\bin\Debug\net6.0\LastOrDefault.runtimeconfig.json
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Linq\LastOrDefault\LastOrDefault\bin\Debug\net6.0\LastOrDefault.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Linq\LastOrDefault\LastOrDefault\bin\Debug\net6.0\LastOrDefault.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Linq\LastOrDefault\LastOrDefault\obj\Debug\net6.0\LastOrDefault.csproj.AssemblyReference.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Linq\LastOrDefault\LastOrDefault\obj\Debug\net6.0\LastOrDefault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Linq\LastOrDefault\LastOrDefault\obj\Debug\net6.0\LastOrDefault.AssemblyInfoInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Linq\LastOrDefault\LastOrDefault\obj\Debug\net6.0\LastOrDefault.AssemblyInfo.cs
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Linq\LastOrDefault\LastOrDefault\obj\Debug\net6.0\LastOrDefault.csproj.CoreCompileInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Linq\LastOrDefault\LastOrDefault\obj\Debug\net6.0\LastOrDefault.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Linq\LastOrDefault\LastOrDefault\obj\Debug\net6.0\refint\LastOrDefault.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Linq\LastOrDefault\LastOrDefault\obj\Debug\net6.0\LastOrDefault.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Linq\LastOrDefault\LastOrDefault\obj\Debug\net6.0\LastOrDefault.genruntimeconfig.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Linq\LastOrDefault\LastOrDefault\obj\Debug\net6.0\ref\LastOrDefault.dll
