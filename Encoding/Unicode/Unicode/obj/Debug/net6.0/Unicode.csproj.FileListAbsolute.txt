@@ -1,0 +1,15 @@
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Encoding\Unicode\Unicode\bin\Debug\net6.0\Unicode.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Encoding\Unicode\Unicode\bin\Debug\net6.0\Unicode.deps.json
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Encoding\Unicode\Unicode\bin\Debug\net6.0\Unicode.runtimeconfig.json
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Encoding\Unicode\Unicode\bin\Debug\net6.0\Unicode.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Encoding\Unicode\Unicode\bin\Debug\net6.0\Unicode.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Encoding\Unicode\Unicode\obj\Debug\net6.0\Unicode.csproj.AssemblyReference.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Encoding\Unicode\Unicode\obj\Debug\net6.0\Unicode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Encoding\Unicode\Unicode\obj\Debug\net6.0\Unicode.AssemblyInfoInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Encoding\Unicode\Unicode\obj\Debug\net6.0\Unicode.AssemblyInfo.cs
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Encoding\Unicode\Unicode\obj\Debug\net6.0\Unicode.csproj.CoreCompileInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Encoding\Unicode\Unicode\obj\Debug\net6.0\Unicode.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Encoding\Unicode\Unicode\obj\Debug\net6.0\refint\Unicode.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Encoding\Unicode\Unicode\obj\Debug\net6.0\Unicode.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Encoding\Unicode\Unicode\obj\Debug\net6.0\Unicode.genruntimeconfig.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\Encoding\Unicode\Unicode\obj\Debug\net6.0\ref\Unicode.dll
