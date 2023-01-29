@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\\Collection\\IO\\DriveInfo\\DriveInfo\\DriveInfo.csproj",
-      "projectName": "DriveInfo",
-      "projectPath": "C:\\Projects\\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\\Collection\\IO\\DriveInfo\\DriveInfo\\DriveInfo.csproj",
+      "projectUniqueName": "C:\\Projects\\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\\Collection\\IO\\FileStream\\FileStream\\FileStream.csproj",
+      "projectName": "FileStream",
+      "projectPath": "C:\\Projects\\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\\Collection\\IO\\FileStream\\FileStream\\FileStream.csproj",
       "packagesPath": "C:\\Users\\lumient\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\\Collection\\IO\\DriveInfo\\DriveInfo\\obj\\",
+      "outputPath": "C:\\Projects\\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\\Collection\\IO\\FileStream\\FileStream\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
