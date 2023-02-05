@@ -1,0 +1,15 @@
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\ModuleInitializer\ModuleInitializer\bin\Debug\net6.0\ModuleInitializer.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\ModuleInitializer\ModuleInitializer\bin\Debug\net6.0\ModuleInitializer.deps.json
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\ModuleInitializer\ModuleInitializer\bin\Debug\net6.0\ModuleInitializer.runtimeconfig.json
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\ModuleInitializer\ModuleInitializer\bin\Debug\net6.0\ModuleInitializer.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\ModuleInitializer\ModuleInitializer\bin\Debug\net6.0\ModuleInitializer.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\ModuleInitializer\ModuleInitializer\obj\Debug\net6.0\ModuleInitializer.csproj.AssemblyReference.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\ModuleInitializer\ModuleInitializer\obj\Debug\net6.0\ModuleInitializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\ModuleInitializer\ModuleInitializer\obj\Debug\net6.0\ModuleInitializer.AssemblyInfoInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\ModuleInitializer\ModuleInitializer\obj\Debug\net6.0\ModuleInitializer.AssemblyInfo.cs
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\ModuleInitializer\ModuleInitializer\obj\Debug\net6.0\ModuleInitializer.csproj.CoreCompileInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\ModuleInitializer\ModuleInitializer\obj\Debug\net6.0\ModuleInitializer.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\ModuleInitializer\ModuleInitializer\obj\Debug\net6.0\refint\ModuleInitializer.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\ModuleInitializer\ModuleInitializer\obj\Debug\net6.0\ModuleInitializer.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\ModuleInitializer\ModuleInitializer\obj\Debug\net6.0\ModuleInitializer.genruntimeconfig.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\ModuleInitializer\ModuleInitializer\obj\Debug\net6.0\ref\ModuleInitializer.dll
