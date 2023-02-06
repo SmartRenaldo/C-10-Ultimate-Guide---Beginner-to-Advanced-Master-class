@@ -1,0 +1,15 @@
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\NestedRecord\NestedRecord\bin\Debug\net6.0\NestedRecord.exe
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\NestedRecord\NestedRecord\bin\Debug\net6.0\NestedRecord.deps.json
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\NestedRecord\NestedRecord\bin\Debug\net6.0\NestedRecord.runtimeconfig.json
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\NestedRecord\NestedRecord\bin\Debug\net6.0\NestedRecord.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\NestedRecord\NestedRecord\bin\Debug\net6.0\NestedRecord.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\NestedRecord\NestedRecord\obj\Debug\net6.0\NestedRecord.csproj.AssemblyReference.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\NestedRecord\NestedRecord\obj\Debug\net6.0\NestedRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\NestedRecord\NestedRecord\obj\Debug\net6.0\NestedRecord.AssemblyInfoInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\NestedRecord\NestedRecord\obj\Debug\net6.0\NestedRecord.AssemblyInfo.cs
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\NestedRecord\NestedRecord\obj\Debug\net6.0\NestedRecord.csproj.CoreCompileInputs.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\NestedRecord\NestedRecord\obj\Debug\net6.0\NestedRecord.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\NestedRecord\NestedRecord\obj\Debug\net6.0\refint\NestedRecord.dll
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\NestedRecord\NestedRecord\obj\Debug\net6.0\NestedRecord.pdb
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\NestedRecord\NestedRecord\obj\Debug\net6.0\NestedRecord.genruntimeconfig.cache
+C:\Projects\C-10-Ultimate-Guide---Beginner-to-Advanced-Master-class\C# 9 & 10 New Feature\NestedRecord\NestedRecord\obj\Debug\net6.0\ref\NestedRecord.dll
